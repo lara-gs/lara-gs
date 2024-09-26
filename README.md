@@ -1,7 +1,7 @@
 ### Hi there😎 I'm Lara
 
 ##### About me
-- 💻 I’m currently learning BackEnd on FactoriaF5 
+- 💻 I’m currently learning BackEnd in FactoriaF5 
 - ⭐​ Pronouns: she/her 
 
 
